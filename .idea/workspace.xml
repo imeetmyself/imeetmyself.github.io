@@ -105,7 +105,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../credits" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../howtoplay" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -142,12 +142,12 @@
       <updated>1502657055161</updated>
       <workItem from="1502657057215" duration="35000" />
       <workItem from="1502657100932" duration="59000" />
-      <workItem from="1502724827074" duration="5315000" />
+      <workItem from="1502724827074" duration="5695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5409000" />
+    <option name="totallyTimeSpent" value="5789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
